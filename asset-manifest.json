@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CRM-react/static/css/main.98b31489.css",
+    "main.js": "/CRM-react/static/js/main.3127ca38.js",
+    "static/media/avatar-128.jpg": "/CRM-react/static/media/avatar-128.b9094e3a3cd1f186c520.jpg",
+    "index.html": "/CRM-react/index.html",
+    "main.98b31489.css.map": "/CRM-react/static/css/main.98b31489.css.map",
+    "main.3127ca38.js.map": "/CRM-react/static/js/main.3127ca38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98b31489.css",
+    "static/js/main.3127ca38.js"
+  ]
+}
